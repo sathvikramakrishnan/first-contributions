@@ -5,10 +5,9 @@
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 - [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 Yash Rustogi
-- [Aryan Bansal @devsocPI]
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
+- [R Sathvik]@DevsocPI
 - [Akshat Gosain @ DevSoc](https://github.com/akshat-gosain)
-- aumkar@DevsocPI
 - [Pranay Chakravarty@devsocPI](https://github.com/Mr-Mystic)
 - [Sasmit Datta @DevsocPI](https://github.com/Sasopsy)
 - [Shardul Tomat@DevsocPI](https://github.com/ShardulT04)
@@ -33,7 +32,6 @@ Yash Rustogi
 - Aniket Sonawane @Devsoc
 - Shamit Khetan @DevSoc
 - Ronit Kunkolienker @DevSoc PI
-- Nishant Raghuvanshi @DevSoc PI
 - [Alvin James Bellero](https://github.com/shiftEscape)
 - [Hidayatullah](https://github.com/dayatnhbtc)
 - [Adlizone](https://github.com/adlizone)
