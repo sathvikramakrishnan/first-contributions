@@ -1,7 +1,6 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
-- [Samridh Kashyap@DevsocPI](https://github.com/SAMRIDH31)
 Yash Rustogi
 - [Abheshek Murugan@DevSoc](https://github.com/singulari1y)
 - [Sasmit Datta @DevsocPI](https://github.com/Sasopsy)
@@ -805,5 +804,6 @@ Yash Rustogi
 - [Sleepypeanut] (https://github.com/sleepypeanut)
 - [Ali Zain Aldeen] (https://github.com/ali-zain-aldeen)
 - [Harshvardhan Mestha @DevsocPI](https://github.com/Harshvardhan-Mestha)
+- [R Sathvik]@DevsocPI
 <!-- prettier-ignore-end -->
 Ulises Quiñonez
